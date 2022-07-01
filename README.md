@@ -1,4 +1,4 @@
-Back Account app that helps the custormer with basic bank transaction
+Bank Account app that helps the custormer with basic bank transaction
 
 
 
